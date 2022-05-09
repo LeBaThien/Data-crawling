@@ -1,0 +1,407 @@
+[
+    {
+        "id": 1525,
+        "title": "Palmar",
+        "type": "Modern Chinese",
+        "description": "From the team behind Alter, Palmar is a casual Chinese restaurant in Wynwood that focuses on the country's diverse cuisine. The menu includes a wide range of options for all appetites and palates, from snacks, rices, and noodles, to large formats such as",
+        "place": {
+            "address": "180 NW 29th St",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.8036602,
+            "longitude": -80.1988651
+        },
+        "phone_number": "+1 305-573-5682",
+        "website": "http://www.palmarmiami.com/"
+    },
+    {
+        "id": 1338,
+        "title": "CHARCOAL garden bar + grill",
+        "type": "Classic American",
+        "description": "Ken Lyon, a veteran player in Miami\u2019s restaurant and catering industry, is behind this eating establishment at The Wynwood Yard, an entrepreneurial community hub that has gained national recognition. Housed within several modified shipping containers, Cha",
+        "place": {
+            "address": "82 NW 29th St",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.8036839,
+            "longitude": -80.1967383
+        },
+        "phone_number": "+1 786-646-2998",
+        "website": "http://www.charcoalmiami.com/"
+    },
+    {
+        "id": 1353,
+        "title": "Beaker and Gray",
+        "type": "American fusion",
+        "description": "Conceptualized by chef/owner Brian Nasajon and bar manager/owner Ben Potts, Beaker & Gray is a 120-seat eatery with an inventive, playful, globally-inspired menu and a vibrant bar scene. Named after two elemental culinary tools \u2014 the Beaker, used by barte",
+        "place": {
+            "address": "2637 N Miami Ave",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.8023429,
+            "longitude": -80.1948094
+        },
+        "phone_number": "+1 305-699-2637",
+        "website": "http://beakerandgray.com/"
+    },
+    {
+        "id": 1341,
+        "title": "GKB",
+        "type": "Classic Peruvian",
+        "description": "Chef Rafael Perez (ex Little Palm Island Resort & Spa) draws inspiration from his native Peru and worldly culinary experiences at this Wynwood hot spot, offering unique riffs on tiraditos, ceviches and mains like cornish hen with Peruvian potato puree, pl",
+        "place": {
+            "address": "218 NW 25th St",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.8005369,
+            "longitude": -80.1995539
+        },
+        "phone_number": "+1 786-477-5151",
+        "website": "http://www.gkbistronomie.com/"
+    },
+    {
+        "id": 1342,
+        "title": "Alter",
+        "type": "Fine American",
+        "description": "Alter is a casual, chef-driven American restaurant located in Miami's Wynwood neighborhood. Helmed by chef Bradley Kilgore, the kitchen produces seasonal cuisine focused on locally sourced ingredients, highlighting Florida's rich seafood, fruits, vegetabl",
+        "place": {
+            "address": "223 NW 23rd St",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.7996764,
+            "longitude": -80.1995982
+        },
+        "phone_number": "+1 305-573-5996",
+        "website": "http://www.altermiami.com/"
+    },
+    {
+        "id": 1349,
+        "title": "Seaspice",
+        "type": "Fine seafood",
+        "description": "N\u00e9 Sea Salt & Pepper, Seaspice is is perched on the Miami River, a repurposed industrial warehouse space combined with outside seating on the dock. The downtown skyline views are beautiful, yes, though perhaps less so than the people about the dining room",
+        "place": {
+            "address": "422 NW North River Dr",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.777738,
+            "longitude": -80.2046766
+        },
+        "phone_number": "+1 305-440-4200",
+        "website": "http://www.seaspicemiami.com/"
+    },
+    {
+        "id": 1350,
+        "title": "Modern Garden",
+        "type": "Seafood fusion",
+        "description": "A mini-restaurant within Seaspice (or the antidote to Seaspice, depending on how you see things), Modern Garden serves primarily crudo and hot stone cooked meats. \"Quaint and intimate, Modern Garden looks like an origami orchard,\" says the Miami New Times",
+        "place": {
+            "address": "422 NW North River Dr",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.7776955,
+            "longitude": -80.2046518
+        },
+        "phone_number": "+1 305-440-4200",
+        "website": "http://www.seaspicemiami.com/modern-garden/"
+    },
+    {
+        "id": 1352,
+        "title": "ARSON",
+        "type": "European fusion",
+        "description": "At the helm of ARSON is a chef, Deme Lomas, that's fixated by flames. This is nothing to be afraid of, rather \u2014 there's a lot to be excited about. Outfitted with a Josper oven-grill hybrid, the kitchen turns out boldly flavorful Euro-Asian fare with a foc",
+        "place": {
+            "address": "104 NE 2nd Ave",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.7753935,
+            "longitude": -80.1904434
+        },
+        "phone_number": "+1 786-717-6711",
+        "website": "http://arsonmiami.com/"
+    },
+    {
+        "id": 1359,
+        "title": "Perricone's Marketplace & Cafe",
+        "type": "Classic Italian",
+        "description": "A quintessential Italian joint, Perricone's Marketplace & Cafe sits in a quiet park nestled in the shadows of the skyscrapers lining Brickell Avenue. With menu specialties like garganelli carbonara and veal parmiagiana, an authentically rustic environment",
+        "place": {
+            "address": "15 SE 10th St",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.7646608,
+            "longitude": -80.1928026
+        },
+        "phone_number": "+1 305-374-9449",
+        "website": "http://www.perricones.com/"
+    },
+    {
+        "id": 1351,
+        "title": "Eating House",
+        "type": "New American",
+        "description": "Eating House is a spunky, yet laid back American restaurant offering tasty, innovate fare. Known for cap'n crunch pancakes at brunch, and very good carbonara (in mac n' cheese form at lunch, and a more traditional style at dinner), it's a fun, casual spot",
+        "place": {
+            "address": "804 Ponce de Leon Blvd",
+            "city": "Coral Gables",
+            "country": "US",
+            "latitude": 25.7642399,
+            "longitude": -80.2593633
+        },
+        "phone_number": "+1 305-448-6524",
+        "website": "http://www.eatinghousemiami.com/"
+    },
+    {
+        "id": 1344,
+        "title": "Swine",
+        "type": "Southern BBQ",
+        "description": "Among other things on offer is what the Miami New Times and Travel + Leisure both call one of the best burgers in Miami. Pork things are the main show here, of course, but the menu has evolved to also include plenty of lighter fare, like seared salmon and",
+        "place": {
+            "address": "2415 Ponce de Leon Blvd",
+            "city": "Coral Gables",
+            "country": "US",
+            "latitude": 25.748993,
+            "longitude": -80.2583331
+        },
+        "phone_number": "+1 786-360-6433",
+        "website": "http://www.runpigrun.com/"
+    },
+    {
+        "id": 1356,
+        "title": "The Local Craft Food & Drink",
+        "type": "Casual American",
+        "description": "With an ever changing menu to keep the inventive Chef from getting bored, \u201cThe Local\u201d is a quaint local\u2019s spot in the heart of Coral Gables, FL with a charming cult following. With scratch cooking as this kitchen\u2019s base, Chef Bryant has started rethinking",
+        "place": {
+            "address": "150 Giralda Ave",
+            "city": "Coral Gables",
+            "country": "US",
+            "latitude": 25.751139,
+            "longitude": -80.257775
+        },
+        "phone_number": "+1 305-648-5687",
+        "website": "http://www.thelocal150.com/"
+    },
+    {
+        "id": 5530,
+        "title": "Greenstreet Cafe",
+        "type": "American",
+        "description": "Half of Greenstreet\u2019s appeal is the great brunch offerings. The other half is the people-watching. Owner Silvano Bignon opened the Coconut Grove caf\u00e9 30 years ago, launching Miami\u2019s premier \u201cseen or be seen\u201d restaurant. The sidewalk patio is the most cove",
+        "place": {
+            "address": "3468 Main Highway",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.726766,
+            "longitude": -80.244055
+        },
+        "phone_number": "+1 305-444-0244",
+        "website": "http://www.greenstreetcafe.net/"
+    },
+    {
+        "id": 4185,
+        "title": "Lulu in the Grove",
+        "type": "New American",
+        "description": "A funky neighborhood joint and outdoor sidewalk locale, Lulu in the Grove is deeply invested in serving fresh, organic, and local ingredients to Coconut Grove. Here, everything is made in-house, from mustard and smoked salmon to pastries and even the infu",
+        "place": {
+            "address": "3105 Commodore Plaza",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.7269699,
+            "longitude": -80.2437142
+        },
+        "phone_number": "+1 305-447-5858",
+        "website": "http://www.luluinthegrove.com/"
+    },
+    {
+        "id": 1361,
+        "title": "The River Oyster Bar",
+        "type": "Oyster bar",
+        "description": "The River Oyster Bar is a local favorite for good reason. Beyond a varied selection of oysters from both coasts (which are offered for $1.50 a pop during happy hour), the menu features mainly seafood-based fare, like coconut steamed mussels, a Maine lobst",
+        "place": {
+            "address": "650 S Miami Ave",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.7674937,
+            "longitude": -80.1934655
+        },
+        "phone_number": "+1 305-530-1915",
+        "website": "http://therivermiami.com/"
+    },
+    {
+        "id": 1354,
+        "title": "The Local House",
+        "type": "New American",
+        "description": "The Local House is the kind of place you want to linger in, long after the meal is done. Enjoy eclectic culinary creations in a setting that exudes warmth.",
+        "place": {
+            "address": "400 Ocean Dr",
+            "city": "Miami Beach",
+            "country": "US",
+            "latitude": 25.773442,
+            "longitude": -80.132473
+        },
+        "phone_number": "+1 786-230-8396",
+        "website": "http://www.localhousemiami.com/"
+    },
+    {
+        "id": 1579,
+        "title": "Ofa Restaurant",
+        "type": "Brazilian",
+        "description": "Celebrating its namesake Farofa \u2013 the typical Brazilian side dish made of toasted yucca flour and spices \u2013 Ofa offers a menu of progressive Brazilian cuisine, rooted in tradition and simultaneously representative of the country\u2019s rich, contemporary gastro",
+        "place": {
+            "address": "1929 Purdy Ave",
+            "city": "Miami Beach",
+            "country": "US",
+            "latitude": 25.795209,
+            "longitude": -80.144281
+        },
+        "phone_number": "+1 305-763-8766",
+        "website": "http://www.ofarestaurant.com/"
+    },
+    {
+        "id": 1343,
+        "title": "Drunken Dragon",
+        "type": "Korean BBQ",
+        "description": "The critics use adjectives like \"hot,\" \"sexy,\" \"sizzling,\" and \"exotic\" when they try to describe Drunken Dragon. But, alas, like many of the punk rock Asian restaurants that have lit a fire under the dining scenes of places like New York and Los Angeles,",
+        "place": {
+            "address": "1424 Alton Rd",
+            "city": "Miami Beach",
+            "country": "US",
+            "latitude": 25.7861169,
+            "longitude": -80.1415007
+        },
+        "phone_number": "+1 305-397-8556",
+        "website": "http://www.drunkendragon.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb"
+    },
+    {
+        "id": 1689,
+        "title": "Il Mulino",
+        "type": "Traditional Italian",
+        "description": "From Eater: \"Il Mulino New York, the classic Italian eatery with locations all over the world, has brought its talents to South Beach.  The restaurant ... will offer guests a modern interior feel, inspired by its Art Deco surroundings and the 'unique Miam",
+        "place": {
+            "address": "840 1st Street",
+            "city": "Miami Beach",
+            "country": "US",
+            "latitude": 25.7696428,
+            "longitude": -80.1367997
+        },
+        "phone_number": "+1 305-372-1221",
+        "website": "http://www.ilmulino.com/south-beach"
+    },
+    {
+        "id": 11697,
+        "title": "Monty's Sunset",
+        "type": "American",
+        "description": "Located poolside and waterfront on the docks of the picturesque Miami Beach Marina, Monty\u2019s Sunset is South Beach\u2019s premiere spot for casual dining, fresh-caught local seafood, a succulent raw bar, live music and the most stunning sunsets in South Florida",
+        "place": {
+            "address": "300 Alton Road",
+            "city": "Miami Beach",
+            "country": "US",
+            "latitude": 25.771612,
+            "longitude": -80.139849
+        },
+        "phone_number": "+1 305-672-1148",
+        "website": "http://www.montyssobe.com/"
+    },
+    {
+        "id": 1560,
+        "title": "The Grill at Bal Harbour",
+        "type": "American grill",
+        "description": "Since 1977, Hillstone has created restaurants that seek to enliven the senses through inspired settings, graceful service, and cuisine that simply tastes delicious. Each of our restaurants complements the unique character of its locale, seeking to be a pl",
+        "place": {
+            "address": "9700 Collins Ave",
+            "city": "Bal Harbour",
+            "country": "US",
+            "latitude": 25.8885602,
+            "longitude": -80.1247403
+        },
+        "phone_number": "+1 786-260-6650",
+        "website": "http://www.grillatbalharbour.com/"
+    },
+    {
+        "id": 11659,
+        "title": "Two Chefs Restaurant",
+        "type": "American",
+        "description": "Two Chefs Restaurant, a leader on the culinary scene of South Florida. Two Chefs widely celebrated cuisine is unique - embodying an elegant restraint and a purity of ingredients seasoned with years of \"know how\" that charms the palate. The restaurants int",
+        "place": {
+            "address": "8287 S Dixie Hwy",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.6932924,
+            "longitude": -80.3017153
+        },
+        "phone_number": "+1 305-663-2100",
+        "website": "http://www.twochefsrestaurant.com/"
+    },
+    {
+        "id": 1712,
+        "title": "Mina's Mediterraneo",
+        "type": "Mediterranean",
+        "description": "Mina\u2019s Mediterreano brings a variety of Middle Eastern eats to Miami\u2019s Upper East Side. Dishes take influence from various cuisines \u2014 including but not limited to Egyptian, Greek, Italian, and Spanish. A solid happy hour and patio dining are added bonuses",
+        "place": {
+            "address": "749 Northeast 79th Street",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.848084,
+            "longitude": -80.181228
+        },
+        "phone_number": "+1 786-391-0300",
+        "website": "http://www.minasmiami.com/"
+    },
+    {
+        "id": 1362,
+        "title": "Vagabond Kitchen and Bar",
+        "type": "American fusion",
+        "description": "\"The Vagabond Restaurant & Bar features a \"casual fine dining\" menu filled with American, Latin and Asain influences inspired by Executive Chef Alex Chang's world travels. The 25-year-old, self-taught chef has spent the past few years doing stints at nota",
+        "place": {
+            "address": "7301-A Biscayne Blvd",
+            "city": "Miami",
+            "country": "US",
+            "latitude": 25.842897,
+            "longitude": -80.183685
+        },
+        "phone_number": "+1 786-409-5635",
+        "website": "http://www.vagabondkitchenandbar.com/"
+    },
+    {
+        "id": 1360,
+        "title": "Lure Fishbar MIA",
+        "type": "Surf 'n' turf",
+        "description": "The front-men at Lure are John McDonald and chef Josh Capon and the loose conceit here is that you're on their good-times yacht. Just like when you're on a private boat, the menu is basically whatever you can think of, from excellent sushi to pro steaks.",
+        "place": {
+            "address": "1601 Collins Ave",
+            "city": "Miami Beach",
+            "country": "US",
+            "latitude": 25.7888482,
+            "longitude": -80.1292223
+        },
+        "phone_number": "+1 305-695-4550",
+        "website": "http://www.lurefishbar.com/"
+    },
+    {
+        "id": 1355,
+        "title": "Byblos",
+        "type": "Mediterranean",
+        "description": "Middleterranean cuisine gains traction with the arrival of this eye-catching eatery, an offshoot of the Toronto original set in the Shorecrest tower of The Royal Palm South Beach Hotel offering unique takes on Levantine meze and exotically spiced lamb, du",
+        "place": {
+            "address": "1545 Collins Ave",
+            "city": "Miami Beach",
+            "country": "US",
+            "latitude": 25.7882983,
+            "longitude": -80.1298677
+        },
+        "phone_number": "+1 305-508-5041",
+        "website": "http://byblosmiami.com/"
+    },
+    {
+        "id": 1711,
+        "title": "Hillstone Coral Gables",
+        "type": "American bistro",
+        "description": "Situated prominently at the corner of Ponce De Leon and Coral Way known as the 'Miracle Mile', Hillstone has been an essential stop for locals and visitors for nearly 15 years. Among the favorites: ahi tuna tartare with sliced avocado, handcrafted sushi,",
+        "place": {
+            "address": "201 Miracle Mile",
+            "city": "Coral Gables",
+            "country": "US",
+            "latitude": 25.749895,
+            "longitude": -80.258956
+        },
+        "phone_number": "+1 305-529-0141",
+        "website": "http://hillstonerestaurant.com/locations/coralgables/"
+    }
+]

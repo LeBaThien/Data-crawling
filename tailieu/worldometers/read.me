@@ -1,0 +1,38 @@
+I.How to run project
+
+    Before start:
+    + gg sreach: what is my user agent?
+    + Then, copy your user agent to config ( in settings.py file)
+    # Crawl responsibly by identifying yourself (and your website) on the user-agent
+    USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36'
+
+    1. Go to terminal
+    #example
+    PS D:\crawling\Data-crawling\tailieu\worldometers\worldometers\worldometers\worldometers\spiders>
+
+    2. Run command line
+    scrapy crawl <name>
+    #where can you find name?
+    go to countries.py
+    NOTE: name must be right with name on command line above
+
+    NOTE: You can't run project, you don't have a library, => check link in references to add lib
+
+II. How to write file command line
+
+    scrapy crawl countries -o <name>.<typeoffile>
+
+    #example
+    scrapy crawl countries -o countries_list.csv
+
+III. Set up a new project
+
+    Using command line
+    scrapy startproject <name-project>
+
+    #It will create a spider, class using to crawl must be in spider folder
+
+
+reference:
+xpath basic: https://www.youtube.com/watch?v=JShkgowxUlQ&ab_channel=Th%C3%BAyPh%E1%BA%A1mTh%E1%BB%8BThu
+set up library: https://www.youtube.com/watch?v=58-bOCGZkx8&ab_channel=OnDemand
